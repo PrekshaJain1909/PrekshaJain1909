@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! Preksha Jain, a 3rd-year BTech IT student at Bharati VidyapPeeth's College Of Engineering in Delhi.<br><br>
+👋 Hey there! I am Preksha Jain, a 3rd-year BTech IT student at Bharati VidyapPeeth's College Of Engineering in Delhi.<br><br>
 🌱 My interest in back-end technology is rising, and I am passionate about front-end development. I've solved over 250 LeetCode questions, so I'm always improving my problem-solving abilities as well.<br><br>
 💡Additionally, I'm currently working as an SDE intern at Globe Capital Market Ltd., where I'm gaining practical experience solving technical problems<br><br>
 📚 In addition to computing.. I enjoy playing chess, dancing, diving into novels—and I am a professional napper. <br><br>
