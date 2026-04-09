@@ -4,7 +4,7 @@ Hi, I’m **Preksha Jain**, a **Full-Stack Developer** proficient in the **MERN 
 - 🎓 final year **B.Tech IT** student at *Bharati Vidyapeeth’s College Of Engineering, Delhi* (CGPA: 8.66).  
 - 💼 Experience as **SDE Intern** at *Parihar Tech* and *Globe Capital Market Ltd.*.  
 - 🚀 Built impactful projects like **GrowPaisa – Stock Recommendation Platform** and **Bus Fee Manager Web App**.  
-- 🧩 Solved **500+ problems on LeetCode**, sharpening problem-solving skills.  
+- 🧩 Solved **600+ problems on LeetCode**, sharpening problem-solving skills.  
 - 🏆 Selected for the prestigious **Super 30 program by Anand Kumar Sir**.  
 - ♟️ Chess enthusiast, dancer, and lifelong learner.  
 
