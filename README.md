@@ -1,66 +1,134 @@
-## 💫 About Me  
-Hi, I’m **Preksha Jain**, a **Full-Stack Developer** proficient in the **MERN stack**, passionate about building scalable and impactful applications.  
+# 💫 About Me
 
-- 🎓 final year **B.Tech IT** student at *Bharati Vidyapeeth’s College Of Engineering, Delhi* (CGPA: 8.66).  
-- 💼 Experience as **SDE Intern** at *Parihar Tech* and *Globe Capital Market Ltd.*.  
-- 🚀 Built impactful projects like **GrowPaisa – Stock Recommendation Platform** and **Bus Fee Manager Web App**.  
-- 🧩 Solved **600+ problems on LeetCode**, sharpening problem-solving skills.  
-- 🏆 Selected for the prestigious **Super 30 program by Anand Kumar Sir**.  
-- ♟️ Chess enthusiast, dancer, and lifelong learner.  
+Hi, I'm **Preksha Jain**, a Software Engineer passionate about **Full Stack Development, Backend Engineering, and AI-powered Applications**.
 
----
-
-## 🛠️ Tech Stack  
-
-**Languages:**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-
-**Backend & Databases:**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-
-**Tools & Concepts:**  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-✔ REST APIs | ✔ JWT Auth | ✔ Responsive Design | ✔ Deployment  
+* 🎓 Final Year **B.Tech (Information Technology)** student at **Bharati Vidyapeeth's College of Engineering, GGSIPU** (CGPA: **8.79/10**)
+* 💼 Former **SDE Intern** at **Mednex Research Solution**, **Parihar India**, and **Globe Capital Market Limited**
+* 🤖 Experienced in building **LLM-powered applications**, AI workflows, and intelligent automation using **OpenAI API** and **Anthropic API**
+* 🚀 Built projects like **OurSpace (AI Relationship Wellness Platform)** and **Fee Flow (Fee Management Platform)**
+* 🧩 Solved **737+ LeetCode problems**
+* 🏆 Selected for the prestigious **Super 30 Program by Anand Kumar**
+* 🏅 2nd Runner-Up at **HackBlocks 2.0 Hackathon 2025**
+* ♟️ Chess Enthusiast | 💃 Dancer | 📚 Lifelong Learner
 
 ---
 
-## 💼 Professional Experience  
+## 🚀 Current Focus
 
-**🔹 Parihar India — Software Development Intern** *(Feb 2025 – July 2025)*  
-- Developed and maintained responsive websites using the **MERN stack**.  
-- Collaborated with the team to debug, test, and deploy production-ready code.  
-- Integrated **frontend designs with backend APIs** for seamless user experiences.  
-
-**🔹 Globe Capital Market Limited — Software Development Intern** *(July 2024 – Aug 2024)*  
-- Built **backend solutions** using **Node.js** and **MongoDB** for financial applications.  
-- Worked with cross-functional teams to enhance application features.  
+* AI Agents & LLM Applications
+* RAG (Retrieval-Augmented Generation)
+* Backend Engineering & Scalable APIs
+* System Design Fundamentals
+* Data Structures & Algorithms
 
 ---
 
+## 🛠️ Tech Stack
 
+### Languages
 
-## 📊 GitHub Stats  
+C++ • JavaScript • Python
 
-![](https://github-readme-stats.vercel.app/api?username=PrekshaJain1909&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=PrekshaJain1909&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrekshaJain1909&theme=radical&hide_border=false&layout=compact)  
+### Frontend
+
+React.js • HTML5 • CSS3 • Tailwind CSS
+
+### Backend
+
+Node.js • Express.js • REST APIs • JWT Authentication • RBAC • Webhooks • Cron Jobs
+
+### Databases
+
+MongoDB • MySQL • PostgreSQL
+
+### AI & Machine Learning
+
+OpenAI API • Anthropic API • NLP • Sentiment Analysis • Vector Embeddings • RAG • LLM Workflows
+
+### Cloud & Tools
+
+Git • GitHub • Postman • Redis • RabbitMQ • VS Code
+
+### Computer Science Fundamentals
+
+Data Structures & Algorithms • OOPs • DBMS • Operating Systems
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=PrekshaJain1909&icon=0&color=6)](https://visitcount.itsvg.in)
+## 💼 Experience
+
+### Software Development Engineer Intern | Mednex Research Solution
+
+**Dec 2025 – Mar 2026**
+
+* Engineered LLM workflows using OpenAI and Anthropic APIs
+* Built reusable AI workflow components for contextual inference
+* Developed backend automation pipelines using Redis and RabbitMQ
+* Integrated external AI and data connectors for workflow orchestration
+
+**Tech:** Node.js, PostgreSQL, Redis, RabbitMQ, OpenAI API, Anthropic API
+
+---
+
+### Full Stack Developer Intern | Parihar India
+
+**Feb 2025 – Jul 2025**
+
+* Developed secure JWT Authentication and RBAC systems
+* Designed and optimized 8+ REST APIs
+* Reduced API response time by 35%
+* Integrated Razorpay Payment Gateway
+
+**Tech:** Node.js, Express.js, MongoDB, JWT, Razorpay
+
+---
+
+### Software Developer Intern | Globe Capital Market Limited
+
+**Jul 2024 – Aug 2024**
+
+* Debugged and optimized C++ modules
+* Resolved 15+ production edge cases
+* Improved SQL query performance
+
+**Tech:** C++, SQL
+
+---
+
+## 🚀 Featured Projects
+
+### ❤️ OurSpace – AI-Powered Relationship Wellness Platform
+
+* AI-driven sentiment analysis and emotional insights
+* Personalized relationship recommendations
+* OpenAI-powered conversation analysis
+* Secure JWT authentication
+
+**Tech:** MERN, OpenAI API, NLP
+
+### 💰 Fee Flow – Fee Management Platform
+
+* Managed 50+ student records
+* Automated 100+ reminders via Email, SMS & WhatsApp
+* Role-based Admin Dashboard
+* Payment tracking and reporting
+
+**Tech:** MERN, OpenAI API, Tailwind CSS, Twilio API
+
+---
+
+## 🏆 Achievements
+
+* Solved **737+ LeetCode** problems
+* Global Rank **77,098** (Top **8.82%** among 870,000+ users)
+* Selected for **Super 30 Program**
+* **2nd Runner-Up** at HackBlocks 2.0 Hackathon 2025
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: linkedin.com/in/preksha-jain03
+* GitHub: github.com/PrekshaJain1909
+* Portfolio: my-portfolio-five-gamma-76.vercel.app
+* LeetCode: leetcode.com/u/Preksha_1909
